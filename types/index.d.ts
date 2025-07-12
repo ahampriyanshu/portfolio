@@ -53,25 +53,25 @@ export type AppState = {
 
 export type EmailAttributes = {
   id: string;
-  sender: {
-    name: string;
-    logo?: string;
-    email: string;
-  };
   subject: string;
   summary?: string;
   body?: string;
-  file?: {
-    name: string;
-    size: string;
-    type: string;
-  };
   priority: number;
   type: EmailType;
   tag?: EmailTag;
   isOpened?: boolean;
   isFav?: boolean;
   isActive?: boolean;
+  sender: {
+    name: string;
+    logo?: string;
+    email: string;
+  };
+  file?: {
+    name: string;
+    size: string;
+    type: string;
+  };
 };
 
 type IconMap = {

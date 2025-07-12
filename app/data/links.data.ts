@@ -1,5 +1,3 @@
-export const GITHUB_PROFILE = 'https://github.com/ahampriyanshu';
-
 export type ProfileType = {
   img: string;
   title: string;
@@ -60,7 +58,7 @@ export const HEADER = {
   SUPPORT: 'https://github.com/ahampriyanshu/ahampriyanshu.github.io',
   APPS: 'https://gist.github.com/ahampriyanshu/7c38b9370b8c1baf009f868ac775134e',
   SETUP: 'https://github.com/ahampriyanshu/ahampriyanshu.github.io#setup',
-  ACCOUNT: 'https://myaccount.google.com/u/0/?nlr=1',
+  ACCOUNT: 'https://ahampriyanshu.com',
   FEEDBACK_FORM: 'https://qke8euxur5q.typeform.com/to/wMrmQrsQ',
   UPDATE_HISTORY:
     'https://github.com/ahampriyanshu/ahampriyanshu.github.io/commits/main',

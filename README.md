@@ -2,11 +2,11 @@
 
 Gmail styled portfolio app in NextJS.
 
-![Zmail](https://img.shields.io/github/license/ahampriyanshu/ahampriyanshu.github.io)
-![Size](https://img.shields.io/github/repo-size/ahampriyanshu/ahampriyanshu.github.io)
-![Open PRs](https://img.shields.io/github/issues-pr/ahampriyanshu/ahampriyanshu.github.io)
-![Issues](https://img.shields.io/github/issues/ahampriyanshu/ahampriyanshu.github.io)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/ahampriyanshu/ahampriyanshu.github.io/main)
+![Zmail](https://img.shields.io/github/license/ahampriyanshu/portfolio)
+![Size](https://img.shields.io/github/repo-size/ahampriyanshu/portfolio)
+![Open PRs](https://img.shields.io/github/issues-pr/ahampriyanshu/portfolio)
+![Issues](https://img.shields.io/github/issues/ahampriyanshu/portfolio)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/ahampriyanshu/portfolio/main)
 
 ## Features
 
@@ -20,8 +20,8 @@ Gmail styled portfolio app in NextJS.
 
 ```bash
 brew install git node
-git clone https://github.com/ahampriyanshu/ahampriyanshu.github.io.git
-cd zmail
+git clone https://github.com/ahampriyanshu/portfolio.git
+cd portfolio
 yarn
 yarn dev
 ```
