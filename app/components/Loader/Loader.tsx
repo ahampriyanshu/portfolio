@@ -21,6 +21,9 @@ export function Loader({
     <div className={styles.loaderOverlay}>
       <div className={styles.loaderContent}>
         <Image
+          style={{
+            borderRadius: '50%',
+          }}
           src='/avatar.png'
           alt='User avatar'
           width={128}
